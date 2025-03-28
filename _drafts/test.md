@@ -18,7 +18,7 @@ Why blogging is still relevant
 * Sharing ideas: Blogging is a great way to share ideas and build a community. 
 
 
-$$\Large e^{\sqrt{\pi}}$$
+$$\LaTeX\;\;\Large e^{\sqrt{\pi}}$$
 
 
 Tips for successful blogging

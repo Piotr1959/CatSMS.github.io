@@ -26,7 +26,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 And LaTeX
 
-$$\Large e^{\sqrt{\pi}}$$
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

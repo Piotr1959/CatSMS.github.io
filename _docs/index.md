@@ -6,7 +6,7 @@ redirect_from:
   - /docs/quickstart/
   - /docs/extras/
 ---
-CutSMS is the external platform. It combines three main modules.
+CutSMS operates as an external platform accessible through RDP protocol. The system integrates three core functional modules.
 
 {: .note .info} 
 Frontend<br>
@@ -19,7 +19,7 @@ The database system stores the structure of predefined signals, indicators, and 
 
 {: .note .info} 
 Model calculator<br>
-After each update, results are sent to the target system for real-time processing—enabling monitoring, optimization, forecasting, AI-driven decisions, and other workflow modules. 
+After each update, recalculated results are sent to the target system for real-time processing—enabling monitoring, optimization, forecasting, AI-driven decisions, and other workflow modules. 
 
 ## Prerequisites
 

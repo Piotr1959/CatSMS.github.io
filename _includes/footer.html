@@ -1,35 +1,19 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+<footer>
+  <div class="grid">
+    <div class="unit two-thirds center-on-mobiles">
+      <p>Jekyll is lovingly maintained by the <a href="{{ '/team/' | relative_url }}">core team</a> of volunteers. </p>
+      <p>The contents of this website are <br />&copy;&nbsp;{{ site.time | date: '%Y' }} under the terms of the <a href="{{ site.repository }}/blob/master/LICENSE">MIT License</a>.</p>
     </div>
-
+    <div class="unit one-third align-right center-on-mobiles">
+      <p>
+        Proudly hosted by
+        <a href="https://github.com">
+          <img src="{{ 'img/footer-logo.png' | relative_url }}" width="100" height="30" alt="GitHub • Social coding">
+        </a>
+      </p>
+      <p>
+        Jekyll is funded thanks to its <a href="https://github.com/jekyll/jekyll#sponsors">sponsors!</a>
+      </p>
+    </div>
   </div>
-
 </footer>

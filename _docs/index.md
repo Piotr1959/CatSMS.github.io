@@ -15,10 +15,10 @@ Management system for [signals](), [indicators]() and [models]()
 
 {: .note .info} 
 Backend<br>
-The database system stores the structure of predefined signals, indicators, and models across domains (e.g., Economy, Investment, Production). This module collects new data for active signals from multiple sources at regular intervals.
+The database system stores the structure of predefined signals, indicators, and models across domains (e.g., Investment, Economy, Production). This module collects new data for active signals from multiple sources at regular intervals.
 
 {: .note .info} 
-Model calculator<br>
+Vector calculator<br>
 After each update, recalculated results are sent to the target system for real-time processing—enabling monitoring, optimization, forecasting, AI-driven decisions, and other workflow modules. 
 
 ## Prerequisites

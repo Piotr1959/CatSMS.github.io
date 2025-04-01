@@ -6,10 +6,7 @@ version: 1.0.0
 category: release
 ---
 
-Hey! After many years of hard work by investment contributors, I'm ready
-to announce the first major release of the project in a long while. v1.0.0 is
-finally here! While the list of ideas, designs and developments is [a 30 years story][history],
-here are the highlights (contact me [@pd](https://www.linkedin.com/in/piotr-dzierzanowski-6205a39a/?trk=opento_sprofile_details) for the details):
+We're proud to announce the inaugural release of our long-term project - version 1.0.0. Drawing on decades of experience in investment management, this milestone represents... Contact [@pd](https://www.linkedin.com/in/piotr-dzierzanowski-6205a39a/?trk=opento_sprofile_details) for implementation details.
 
 - Quick start ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc))
 - Define signal ([example](https://www.youtube.com/watch?v=wj7fq_3ysZc))

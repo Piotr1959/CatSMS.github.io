@@ -14,7 +14,7 @@ html {
 
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 19px;
   font-weight: 300;  
   color: #ddd;
   background-color: #333;
@@ -1347,4 +1347,9 @@ ol div.highlighter-rouge {
     right: 0;
     border-color: transparent transparent #b28b70 #b28b70;
   }
+}
+
+first {
+  text-align: center;
+  font-size: 0.725em; 
 }
